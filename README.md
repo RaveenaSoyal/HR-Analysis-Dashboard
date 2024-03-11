@@ -58,32 +58,6 @@ The HR Data Analysis Dashboard provides a comprehensive visualization of key HR 
 4. **Employee Engagement Analysis:**
    - Understand factors affecting employee engagement through survey data, facilitating a positive workplace culture.
 
-## Usage
-
-### Power BI:
-
-1. **Download Power BI Desktop:**
-   - Ensure you have [Power BI Desktop](https://powerbi.microsoft.com/desktop/) installed on your machine.
-
-2. **Open the Power BI Project:**
-   - Double-click on the HR-Data-Analysis-Power-BI.pbix file to open the Power BI project.
-
-3. **Refresh Data:**
-   - If needed, refresh the data connections to update the dashboard with the latest information.
-
-4. **Explore and Analyze:**
-   - Interact with the dashboard elements to explore insights and analyze HR data.
-
-### MS Excel:
-
-1. **Open Excel Workbook:**
-   - Double-click on the HR-Data-Analysis-Excel.xlsx file to open the Excel workbook.
-
-2. **Navigate Worksheets:**
-   - Navigate through different worksheets for various aspects of HR data analysis.
-
-3. **Refresh Data (if applicable):**
-   - Refresh data connections to update the Excel dashboard with the latest information.
 
 ![HR Analytics Dashboard](https://github.com/RaveenaSoyal/HR-Analysis-Dashboard/assets/162892512/3ea49cc0-789d-4467-b83b-eda127c72bc2)
 
