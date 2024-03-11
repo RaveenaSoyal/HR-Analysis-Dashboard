@@ -61,5 +61,6 @@ The HR Data Analysis Dashboard provides a comprehensive visualization of key HR 
 
 ![HR Analytics Dashboard](https://github.com/RaveenaSoyal/HR-Analysis-Dashboard/assets/162892512/3ea49cc0-789d-4467-b83b-eda127c72bc2)
 
-![HR Analytics Dashboard](https://github.com/RaveenaSoyal/HR-Analysis-Dashboard/assets/162892512/bfd4535e-174d-46cc-8306-70ad07df19b4)
+![HR Dashboard made using excel](https://github.com/RaveenaSoyal/HR-Analysis-Dashboard/assets/162892512/8c588467-8711-4ab6-bac3-a6e78b9d5b26)
+
 
