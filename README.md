@@ -42,5 +42,5 @@ The HR Data Analysis Dashboard is a Power BI project designed to provide compreh
 
 5. **Recruitment Efficiency:**
    - Track the efficiency of the recruitment process and identify bottlenecks or areas for improvement.
-  
-   ![HR Analytics Dashboard](https://github.com/RaveenaSoyal/HR-Analysis-Dashboard/assets/162892512/36e1e9d4-c7f3-4716-9e54-5d569ac396a2)
+
+![HR Analytics Dashboard](https://github.com/RaveenaSoyal/HR-Analysis-Dashboard/assets/162892512/36e1e9d4-c7f3-4716-9e54-5d569ac396a2)
