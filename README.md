@@ -29,8 +29,10 @@ Analyzing HR data using Power BI has been an eye-opening experience. The dynamic
 ### MS Excel:
 While Excel served as a powerful tool for initial data analysis, Power BI took it a step further by providing a more user-friendly and visually appealing platform for presenting insights. The seamless integration of custom visualizations in Power BI allowed us to create a comprehensive dashboard that tells a compelling story.
 
+
+
 ![HR Analytics Dashboard](https://github.com/RaveenaSoyal/HR-Analysis-Dashboard/assets/162892512/3ea49cc0-789d-4467-b83b-eda127c72bc2)
 
-  ![HR Dashboard made using excel](https://github.com/RaveenaSoyal/HR-Analysis-Dashboard/assets/162892512/8c588467-8711-4ab6-bac3-a6e78b9d5b26)
+            ![HR Dashboard made using excel](https://github.com/RaveenaSoyal/HR-Analysis-Dashboard/assets/162892512/8c588467-8711-4ab6-bac3-a6e78b9d5b26)
 
 
